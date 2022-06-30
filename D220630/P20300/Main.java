@@ -1,3 +1,8 @@
+/*
+ * 서강근육맨
+ * https://www.acmicpc.net/problem/20300
+ * Greedy Algorithm
+ */
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;

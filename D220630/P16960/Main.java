@@ -1,3 +1,8 @@
+/*
+ * 스위치와 램프
+ * https://www.acmicpc.net/problem/16960
+ * 구현
+ */
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;

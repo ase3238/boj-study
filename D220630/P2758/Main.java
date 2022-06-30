@@ -1,4 +1,6 @@
 /*
+ * 로또
+ * https://www.acmicpc.net/problem/2758
  * DP
  */
 import java.io.BufferedReader;
