@@ -3,6 +3,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 전구와 스위치
+ * https://www.acmicpc.net/problem/2138
+ * Greedy Algorithm
+ */
 public class Main {
     static int N;
     static boolean[] bulb;
