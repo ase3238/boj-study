@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 /*
  * 수열
  * https://www.acmicpc.net/problem/2559
- * 누적합, 슬라이딩 윈도우
+ * 부분합, 슬라이딩 윈도우
  */
 public class Main {
     public static void main(String[] args) throws IOException {
