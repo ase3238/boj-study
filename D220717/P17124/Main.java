@@ -6,6 +6,11 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
+/* 
+ * 두 개의 배열
+ * https://www.acmicpc.net/problem/17124
+ * 이진 탐색
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("D220717/P17124/input.txt"));

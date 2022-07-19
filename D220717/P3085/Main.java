@@ -3,6 +3,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+ * 사탕 게임
+ * https://www.acmicpc.net/problem/3085
+ * 구현, 완전탐색
+ */
 public class Main {
     static int N;
     static char[][] map;
