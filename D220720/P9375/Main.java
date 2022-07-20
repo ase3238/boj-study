@@ -5,6 +5,11 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
+/*
+ * 패션왕 신해빈
+ * https://www.acmicpc.net/problem/9375
+ * 구현, 자료구조, 조합론
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("D220720/P9375/input.txt"));
