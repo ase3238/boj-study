@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/* 
+ * 스택
+ * https://www.acmicpc.net/problem/10828
+ * Stack, 구현
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("DS/P10828/input.txt"));
