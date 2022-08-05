@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
+/*
+ * 후위 표기식
+ * https://www.acmicpc.net/problem/1935
+ * 구현, Stack
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("DS/P1935/input.txt"));
